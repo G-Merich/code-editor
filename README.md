@@ -1,6 +1,6 @@
 # Live Code Editor
 
-A simple web-based live code editor that allows you to write and run HTML, CSS, and JavaScript code in real-time. This project provides an easy way to experiment with web development code and see the output instantly.
+A simple web-based live code editor that allows you to write and run HTML, CSS, and JavaScript code in real-time. This project provides an easy way to experiment with web development code and see the output instantly. 
 
 ## Table of Contents
 
@@ -19,6 +19,7 @@ You can try the Live Code Editor online at [Demo Link](https://example.com).
 - Separate code editors for HTML, CSS, and JavaScript.
 - Real-time rendering of the code output.
 - Easy to use and beginner-friendly.
+- Clean to use.
 
 ## Getting Started
 
